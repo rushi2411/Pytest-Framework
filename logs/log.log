@@ -1,0 +1,228 @@
+2024-01-30 15:32:23,040 INFO myLogger: 20 started....................
+2024-01-30 15:32:24,683 INFO myLogger: 25 launching app....................
+2024-01-30 15:32:24,684 INFO myLogger: 28 clicking my_account....................
+2024-01-30 15:32:24,754 INFO myLogger: 30 clicking Register....................
+2024-01-30 15:32:25,924 INFO myLogger: 33 Providing customer details for registration....................
+2024-01-30 15:32:29,271 INFO myLogger: 45 Account Registration Passed....................
+2024-01-30 15:32:29,378 INFO myLogger: 53 completed....................
+test_001_AccountRegistration.py 2024-01-30 15:36:18,607 INFO myLogger: 20 started....................
+test_001_AccountRegistration.py 2024-01-30 15:36:20,356 INFO myLogger: 25 launching app....................
+test_001_AccountRegistration.py 2024-01-30 15:36:20,356 INFO myLogger: 28 clicking my_account....................
+test_001_AccountRegistration.py 2024-01-30 15:50:33,396 INFO myLogger: 20 started....................
+test_001_AccountRegistration.py 2024-01-30 15:50:35,380 INFO myLogger: 25 launching app....................
+test_001_AccountRegistration.py 2024-01-30 15:50:35,380 INFO myLogger: 28 clicking my_account....................
+test_001_AccountRegistration.py 2024-01-30 15:50:35,462 INFO myLogger: 30 clicking Register....................
+test_001_AccountRegistration.py 2024-01-30 15:50:36,238 INFO myLogger: 33 Providing customer details for registration....................
+test_001_AccountRegistration.py 2024-01-30 15:54:25,878 INFO myLogger: 21 started....................
+test_001_AccountRegistration.py 2024-01-30 15:54:27,201 INFO myLogger: 26 launching app....................
+test_001_AccountRegistration.py 2024-01-30 15:54:27,202 INFO myLogger: 29 clicking my_account....................
+test_001_AccountRegistration.py 2024-01-30 15:58:53,046 INFO myLogger: 21 started....................
+test_001_AccountRegistration.py 2024-01-30 15:58:54,216 INFO myLogger: 26 launching app....................
+test_001_AccountRegistration.py 2024-01-30 15:58:54,217 INFO myLogger: 29 clicking my_account....................
+test_001_AccountRegistration.py 2024-01-30 15:59:04,424 ERROR myLogger: 58 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="d-none d-md-inline" and contains(text(), "My Account")]"}
+  (Session info: chrome=121.0.6167.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E8C75E42+3538674]
+	(No symbol) [0x00007FF6E8894C02]
+	(No symbol) [0x00007FF6E8745AEB]
+	(No symbol) [0x00007FF6E878BF4E]
+	(No symbol) [0x00007FF6E878C0CC]
+	(No symbol) [0x00007FF6E87CE477]
+	(No symbol) [0x00007FF6E87AF0EF]
+	(No symbol) [0x00007FF6E87CBDE3]
+	(No symbol) [0x00007FF6E87AEE53]
+	(No symbol) [0x00007FF6E877F514]
+	(No symbol) [0x00007FF6E8780631]
+	GetHandleVerifier [0x00007FF6E8CA6CAD+3738973]
+	GetHandleVerifier [0x00007FF6E8CFC506+4089270]
+	GetHandleVerifier [0x00007FF6E8CF4823+4057299]
+	GetHandleVerifier [0x00007FF6E89C5C49+720121]
+	(No symbol) [0x00007FF6E88A126F]
+	(No symbol) [0x00007FF6E889C304]
+	(No symbol) [0x00007FF6E889C432]
+	(No symbol) [0x00007FF6E888BD04]
+	BaseThreadInitThunk [0x00007FF91E157344+20]
+	RtlUserThreadStart [0x00007FF91F1426B1+33]
+
+test_001_AccountRegistration.py 2024-01-30 15:59:30,477 INFO myLogger: 21 started....................
+test_001_AccountRegistration.py 2024-01-30 15:59:31,331 INFO myLogger: 26 launching app....................
+test_001_AccountRegistration.py 2024-01-30 15:59:31,331 INFO myLogger: 29 clicking my_account....................
+test_001_AccountRegistration.py 2024-01-30 15:59:41,530 ERROR myLogger: 58 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="d-none d-md-inline" and contains(text(), "My Account")]"}
+  (Session info: chrome=121.0.6167.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E8C75E42+3538674]
+	(No symbol) [0x00007FF6E8894C02]
+	(No symbol) [0x00007FF6E8745AEB]
+	(No symbol) [0x00007FF6E878BF4E]
+	(No symbol) [0x00007FF6E878C0CC]
+	(No symbol) [0x00007FF6E87CE477]
+	(No symbol) [0x00007FF6E87AF0EF]
+	(No symbol) [0x00007FF6E87CBDE3]
+	(No symbol) [0x00007FF6E87AEE53]
+	(No symbol) [0x00007FF6E877F514]
+	(No symbol) [0x00007FF6E8780631]
+	GetHandleVerifier [0x00007FF6E8CA6CAD+3738973]
+	GetHandleVerifier [0x00007FF6E8CFC506+4089270]
+	GetHandleVerifier [0x00007FF6E8CF4823+4057299]
+	GetHandleVerifier [0x00007FF6E89C5C49+720121]
+	(No symbol) [0x00007FF6E88A126F]
+	(No symbol) [0x00007FF6E889C304]
+	(No symbol) [0x00007FF6E889C432]
+	(No symbol) [0x00007FF6E888BD04]
+	BaseThreadInitThunk [0x00007FF91E157344+20]
+	RtlUserThreadStart [0x00007FF91F1426B1+33]
+
+test_001_AccountRegistration.py 2024-01-30 17:36:26,117 INFO myLogger: 21 started....................
+test_001_AccountRegistration.py 2024-01-30 17:36:28,204 INFO myLogger: 26 launching app....................
+test_001_AccountRegistration.py 2024-01-30 17:36:28,204 INFO myLogger: 29 clicking my_account....................
+test_001_AccountRegistration.py 2024-01-30 17:36:28,264 INFO myLogger: 31 clicking Register....................
+test_001_AccountRegistration.py 2024-01-30 17:36:29,667 INFO myLogger: 34 Providing customer details for registration....................
+test_001_AccountRegistration.py 2024-01-30 17:36:39,810 ERROR myLogger: 58 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="input-firstname"]"}
+  (Session info: MicrosoftEdge=121.0.2277.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7EF01AD02+60770]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7EEFA84B2+228274]
+	(No symbol) [0x00007FF7EEDBADBB]
+	(No symbol) [0x00007FF7EEE0A867]
+	(No symbol) [0x00007FF7EEE0A975]
+	(No symbol) [0x00007FF7EEE4C177]
+	(No symbol) [0x00007FF7EEE2C51F]
+	(No symbol) [0x00007FF7EEDFE141]
+	(No symbol) [0x00007FF7EEE49438]
+	(No symbol) [0x00007FF7EEE2C143]
+	(No symbol) [0x00007FF7EEDFD4A8]
+	(No symbol) [0x00007FF7EEDFC317]
+	(No symbol) [0x00007FF7EEDFD041]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7EF1CB47C+1039884]
+	(No symbol) [0x00007FF7EEE80D65]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7EEF1A82C+36956]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7EEF12352+2946]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7EF1C9EC3+1034323]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7EEFB2418+269080]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7EEFAD0F4+247796]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7EEFAD222+248098]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7EEFA3911+208913]
+	BaseThreadInitThunk [0x00007FF91E157344+20]
+	RtlUserThreadStart [0x00007FF91F1426B1+33]
+
+test_001_AccountRegistration.py 2024-01-30 17:39:48,286 INFO myLogger: 21 started....................
+test_001_AccountRegistration.py 2024-01-30 17:39:49,107 INFO myLogger: 26 launching app....................
+test_001_AccountRegistration.py 2024-01-30 17:39:49,108 INFO myLogger: 29 clicking my_account....................
+test_001_AccountRegistration.py 2024-01-30 17:39:59,263 ERROR myLogger: 58 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="d-none d-md-inline" and contains(text(), "My Account")]"}
+  (Session info: chrome=121.0.6167.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E8C75E42+3538674]
+	(No symbol) [0x00007FF6E8894C02]
+	(No symbol) [0x00007FF6E8745AEB]
+	(No symbol) [0x00007FF6E878BF4E]
+	(No symbol) [0x00007FF6E878C0CC]
+	(No symbol) [0x00007FF6E87CE477]
+	(No symbol) [0x00007FF6E87AF0EF]
+	(No symbol) [0x00007FF6E87CBDE3]
+	(No symbol) [0x00007FF6E87AEE53]
+	(No symbol) [0x00007FF6E877F514]
+	(No symbol) [0x00007FF6E8780631]
+	GetHandleVerifier [0x00007FF6E8CA6CAD+3738973]
+	GetHandleVerifier [0x00007FF6E8CFC506+4089270]
+	GetHandleVerifier [0x00007FF6E8CF4823+4057299]
+	GetHandleVerifier [0x00007FF6E89C5C49+720121]
+	(No symbol) [0x00007FF6E88A126F]
+	(No symbol) [0x00007FF6E889C304]
+	(No symbol) [0x00007FF6E889C432]
+	(No symbol) [0x00007FF6E888BD04]
+	BaseThreadInitThunk [0x00007FF91E157344+20]
+	RtlUserThreadStart [0x00007FF91F1426B1+33]
+
+test_copy.py 2024-01-30 17:44:11,616 INFO myLogger: 22 starts...........
+test_copy.py 2024-01-30 17:44:11,616 INFO myLogger: 22 starts...........
+test_001_AccountRegistration.py 2024-01-30 17:44:11,765 INFO myLogger: 21 started....................
+test_001_AccountRegistration.py 2024-01-30 17:44:15,607 INFO myLogger: 26 launching app....................
+test_001_AccountRegistration.py 2024-01-30 17:44:15,608 INFO myLogger: 29 clicking my_account....................
+test_001_AccountRegistration.py 2024-01-30 17:44:25,753 ERROR myLogger: 58 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="d-none d-md-inline" and contains(text(), "My Account")]"}
+  (Session info: chrome=121.0.6167.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E8C75E42+3538674]
+	(No symbol) [0x00007FF6E8894C02]
+	(No symbol) [0x00007FF6E8745AEB]
+	(No symbol) [0x00007FF6E878BF4E]
+	(No symbol) [0x00007FF6E878C0CC]
+	(No symbol) [0x00007FF6E87CE477]
+	(No symbol) [0x00007FF6E87AF0EF]
+	(No symbol) [0x00007FF6E87CBDE3]
+	(No symbol) [0x00007FF6E87AEE53]
+	(No symbol) [0x00007FF6E877F514]
+	(No symbol) [0x00007FF6E8780631]
+	GetHandleVerifier [0x00007FF6E8CA6CAD+3738973]
+	GetHandleVerifier [0x00007FF6E8CFC506+4089270]
+	GetHandleVerifier [0x00007FF6E8CF4823+4057299]
+	GetHandleVerifier [0x00007FF6E89C5C49+720121]
+	(No symbol) [0x00007FF6E88A126F]
+	(No symbol) [0x00007FF6E889C304]
+	(No symbol) [0x00007FF6E889C432]
+	(No symbol) [0x00007FF6E888BD04]
+	BaseThreadInitThunk [0x00007FF91E157344+20]
+	RtlUserThreadStart [0x00007FF91F1426B1+33]
+
+test_001_AccountRegistration.py 2024-01-30 17:45:44,397 INFO myLogger: 21 started....................
+test_copy.py 2024-01-30 17:45:44,481 INFO myLogger: 22 starts...........
+test_copy.py 2024-01-30 17:45:44,481 INFO myLogger: 22 starts...........
+test_001_AccountRegistration.py 2024-01-30 17:45:45,489 INFO myLogger: 26 launching app....................
+test_001_AccountRegistration.py 2024-01-30 17:45:45,490 INFO myLogger: 29 clicking my_account....................
+test_001_AccountRegistration.py 2024-01-30 17:45:55,623 ERROR myLogger: 58 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="d-none d-md-inline" and contains(text(), "My Account")]"}
+  (Session info: chrome=121.0.6167.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E8C75E42+3538674]
+	(No symbol) [0x00007FF6E8894C02]
+	(No symbol) [0x00007FF6E8745AEB]
+	(No symbol) [0x00007FF6E878BF4E]
+	(No symbol) [0x00007FF6E878C0CC]
+	(No symbol) [0x00007FF6E87CE477]
+	(No symbol) [0x00007FF6E87AF0EF]
+	(No symbol) [0x00007FF6E87CBDE3]
+	(No symbol) [0x00007FF6E87AEE53]
+	(No symbol) [0x00007FF6E877F514]
+	(No symbol) [0x00007FF6E8780631]
+	GetHandleVerifier [0x00007FF6E8CA6CAD+3738973]
+	GetHandleVerifier [0x00007FF6E8CFC506+4089270]
+	GetHandleVerifier [0x00007FF6E8CF4823+4057299]
+	GetHandleVerifier [0x00007FF6E89C5C49+720121]
+	(No symbol) [0x00007FF6E88A126F]
+	(No symbol) [0x00007FF6E889C304]
+	(No symbol) [0x00007FF6E889C432]
+	(No symbol) [0x00007FF6E888BD04]
+	BaseThreadInitThunk [0x00007FF91E157344+20]
+	RtlUserThreadStart [0x00007FF91F1426B1+33]
+
+test_001_AccountRegistration.py 2024-01-30 17:46:19,432 INFO myLogger: 21 started....................
+test_001_AccountRegistration.py 2024-01-30 17:46:20,403 INFO myLogger: 26 launching app....................
+test_001_AccountRegistration.py 2024-01-30 17:46:20,404 INFO myLogger: 29 clicking my_account....................
+test_copy.py 2024-01-30 17:46:21,117 INFO myLogger: 22 starts...........
+test_copy.py 2024-01-30 17:46:21,117 INFO myLogger: 22 starts...........
+test_001_AccountRegistration.py 2024-01-30 17:46:30,541 ERROR myLogger: 58 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="d-none d-md-inline" and contains(text(), "My Account")]"}
+  (Session info: MicrosoftEdge=121.0.2277.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7EF01AD02+60770]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7EEFA84B2+228274]
+	(No symbol) [0x00007FF7EEDBADBB]
+	(No symbol) [0x00007FF7EEE0A867]
+	(No symbol) [0x00007FF7EEE0A975]
+	(No symbol) [0x00007FF7EEE4C177]
+	(No symbol) [0x00007FF7EEE2C51F]
+	(No symbol) [0x00007FF7EEDFE141]
+	(No symbol) [0x00007FF7EEE49438]
+	(No symbol) [0x00007FF7EEE2C143]
+	(No symbol) [0x00007FF7EEDFD4A8]
+	(No symbol) [0x00007FF7EEDFC317]
+	(No symbol) [0x00007FF7EEDFD041]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7EF1CB47C+1039884]
+	(No symbol) [0x00007FF7EEE80D65]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7EEF1A82C+36956]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7EEF12352+2946]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7EF1C9EC3+1034323]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7EEFB2418+269080]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7EEFAD0F4+247796]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7EEFAD222+248098]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7EEFA3911+208913]
+	BaseThreadInitThunk [0x00007FF91E157344+20]
+	RtlUserThreadStart [0x00007FF91F1426B1+33]
+
